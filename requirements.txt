@@ -1,0 +1,4 @@
+ we need mysql-connector-python to run this program .
+******************** pip install -r requirements.txt*****************************
+
+ 
