@@ -25,7 +25,7 @@ This project demonstrates basic backend development concepts and CRUD operations
 ## How to Run
 1. Install dependencies
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 2. Import `database.sql` into MySQL
 3. Update database credentials in `bank.py`
