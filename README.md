@@ -68,6 +68,15 @@ python bank.py
 - Add password/PIN hashing
 - Improve input validation
 - Convert to a web application using Flask
+- 
+## 📸 Screenshots
+
+**MySQL Database Setup**  
+MySQL database and tables created successfully.
+
+**Application Running**  
+Bank Management System running successfully in terminal.
+
   
 ## 👤 Author
 Mihir Chatterjee  
