@@ -39,3 +39,40 @@ This project demonstrates basic backend development concepts and **CRUD operatio
 ### 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
+### 2️⃣ Setup Database
+Open MySQL
+Import the database using:
+```bash
+source database.sql;
+```
+### 3️⃣ Configure Database Credentials
+
+Update the database credentials in bank.py:
+```bash
+host="localhost"
+user="root"
+password="YOUR_PASSWORD"
+database="bank_db"
+```
+### 4️⃣ Run the Program
+```bash
+python bank.py
+```
+## 🎯 Learning Outcomes
+- Understood CRUD operations
+- Learned Python–MySQL connectivity
+- Gained experience with menu-driven programs
+
+## 🚀 Future Improvements
+- Add password/PIN hashing
+- Improve input validation
+- Convert to a web application using Flask
+  
+## 👤 Author
+Mihir Chatterjee  
+BCA Student
+
+
+
+
