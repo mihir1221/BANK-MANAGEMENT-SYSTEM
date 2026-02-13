@@ -21,13 +21,19 @@ This project demonstrates basic backend development concepts and CRUD operations
 - bank.py – main application file
 - database.sql – database schema
 - requirements.txt – required Python packages
+
+
+
 ##Project Structure
 
   BANK-MANAGEMENT-SYSTEM/
 │
 ├── bank.py            # Main Python program (menu-driven logic)
+
 ├── database.sql       # MySQL database and table creation script
+
 ├── requirements.txt   # Required Python packages
+
 ├── README.md          # Project documentation
 
 
